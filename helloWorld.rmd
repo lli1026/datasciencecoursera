@@ -1,0 +1,20 @@
+---
+title: "HelloWorld"
+author: "Lie Li"
+date: "June 10, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+
+```{r cars}
+print("Hello World")
+```
+
+
